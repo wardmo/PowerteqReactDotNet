@@ -14,7 +14,9 @@ PowerteqReactDotNet\frontend> npm start
 To run the backend:
 PowerteqReactDotNet\backend> dotnet run  
 ### IMPORTANT
-Need to install .NET 5.0 SDK or later on your machine to have the dotnet command tools
+Need to install .NET 5.0 SDK or later on your machine to have the dotnet command tools  
+If you don't have the sdk you can get it here:  
+https://dotnet.microsoft.com/download/visual-studio-sdks
 
 
 ## Example
