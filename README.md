@@ -7,4 +7,4 @@ User should be able to delete any item from the to do list.
 User should be able to save changes, and have those changes be saved on the back end.  
 Data should be fetched from the back end at start up.  
 
-![Alt Text](https://imgur.com/ya9opzd.gif)
+![Alt Text](https://imgur.com/DAKVMVN.gif)
