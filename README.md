@@ -4,7 +4,7 @@ Make a todo list. The list should populate with data from the back end.
 
 ## GIT
 Please make your own branch with its base at the tip of the ‘main’ branch, 
-and workyour solution from there. When you are finished push your branch 
+and work your solution from there. When you are finished push your branch 
 to the repository. DO NOT COMMIT ON MAIN AND PUSH!
 
 ## REQUIREMENTS
