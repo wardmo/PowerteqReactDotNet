@@ -1,6 +1,12 @@
 # PowerteqReactDotNet
 
 Make a todo list. The list should populate with data from the back end.
+
+## GIT
+Please make your own branch with its base at the tip of the ‘main’ branch, 
+and workyour solution from there. When you are finished push your branch 
+to the repository. DO NOT COMMIT ON MAIN AND PUSH!
+
 ## REQUIREMENTS
 User should be able to add items to the to do list.  
 User should be able to delete any item from the to do list.  
